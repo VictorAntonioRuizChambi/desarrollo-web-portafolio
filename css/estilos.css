@@ -1,3 +1,15 @@
-header {
-    background: pink !important;
-}
+
+
+/* selector de etiqueta header - section - article - nav */
+    header {
+        background: pink;
+        color: red;
+    } 
+/* selector descendente */
+/* body header div nav ol li a{}*/
+
+/* select de clase . */
+/* .link */
+
+/* selector de id # */
+/* #portafolio */
