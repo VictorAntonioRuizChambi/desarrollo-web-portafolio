@@ -21,4 +21,26 @@ body {
 
 h1, h2, h3, h4, h5, h6{
     font-family: 'Fjalla One', sans-serif;
+    font-weight: normal;/*puede ser un múltiplo de 100 donde el mínimo es 100, fuente normal es 400, bold es 600 y máximo es 900*/
+    /*font-style: italic*/
 }
+
+h1{
+    font-size: 40px;
+    line-height: 1.5em;
+    letter-spacing: -.2px;
+    /*text-transform: uppercase;*/
+    /*text-decoration: underline;*/
+}
+
+.hero{
+    height: 300px;
+}
+.project-details{
+    width: 500px;
+}
+
+.project-imageContainer {
+    width: 500px;
+}
+
